@@ -1,5 +1,5 @@
 # Microsservices
-API de Catalogos de produtos utilizando imagem docker do MongoDb e conteinerização a aplicação ASP .NET Core Web API
+API de Catalogos de produtos utilizando imagem docker do MongoDb e conteinerização da aplicação ASP .NET Core Web API
 
 ### Começando
 Para executar o projeto, será necessário instalar os seguintes programas:
